@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+in the name of God
 
-You can use the [editor on GitHub](https://github.com/sajadheidari2011/sajadheidari2011.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+About me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am Sajjad Heydari.
 
-### Markdown
+BS student in software from Payame Noor University
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I was born in 1997 in the holy city of Qom, the city of Crimea, the family of Hazrat Fatemeh Masoumeh.
 
-```markdown
-Syntax highlighted code block
+I'm very interested in learning the Python programming language and I'm learning it.
 
-# Header 1
-## Header 2
-### Header 3
+About me
 
-- Bulleted
-- List
+Has a diploma in mathematics that I obtained in 1394.
 
-1. Numbered
-2. List
+I entered the university the year I went to study for a bachelor's degree.
 
-**Bold** and _Italic_ and `Code` text
+Since I am an undergraduate student, unfortunately I could not create a work history in my field of study and I do not have a specific background.
+Support or Contact
 
-[Link](url) and ![Image](src)
-```
+I have the following email.
+Sajadheidari2011@gmail.com
+Sajadheidari2011@email.com
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I also have a page at https://quera.ir.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sajadheidari2011/sajadheidari2011.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://quera.ir/profile/sajadheidari2011
